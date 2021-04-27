@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/mnt/3B6A403E1C033150/cursos/springboot/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3020451150.index
+1160787794.index
+2597752758.index
+3198038330.index
+167582022.index

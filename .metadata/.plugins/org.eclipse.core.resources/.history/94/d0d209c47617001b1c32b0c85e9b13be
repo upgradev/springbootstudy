@@ -1,0 +1,15 @@
+package br.com.upgrade;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class MinhaConfiguration {
+	
+	//criar no contexto da aplicação
+	@Bean(name="applicationName")
+	public String applicationName() {
+		return "Sistema de venda";
+	}
+	
+}

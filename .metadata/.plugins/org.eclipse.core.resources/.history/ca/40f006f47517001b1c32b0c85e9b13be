@@ -1,0 +1,8 @@
+package br.com.upgrade;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class MinhaConfiguration {
+
+}
